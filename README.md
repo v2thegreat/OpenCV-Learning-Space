@@ -1,2 +1,5 @@
 # FPS-Counter
-Using Multi-Threading in python, I was able to create a FPS counter to show in the top left corner 
+
+*Ever wanted a way to check how many frames per second is your video input in OpenCV?*
+
+Simple design to do exactly that! And to make it easier to use!
